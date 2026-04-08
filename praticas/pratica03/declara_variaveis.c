@@ -11,7 +11,7 @@ int main () {
     altura = 1.72f;
     peso = 64.310;
 
-    printf("%s %i\n %s %c\n %s %.2f\n %s %.3lf\n", "Idade: ", idade, "Sexo: ", sexo, "Altura: ", altura, "Peso: ", peso);
+    printf("%s %i\n %s %c\n %s %.2f\n %s %.3f\n", "Idade: ", idade, "Sexo: ", sexo, "Altura: ", altura, "Peso: ", peso);
 
     return 0;
 }
